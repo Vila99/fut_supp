@@ -4,9 +4,9 @@ import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { useRouter } from 'next/navigation';
 
-const API_KEY = 'b209c4766d2600d02a18454bb08f4514';
+// const API_KEY = 'b209c4766d2600d02a18454bb08f4514';
 const SEASON = '2024';
-const BASE_URL = 'https://v3.football.api-sports.io';
+// const BASE_URL = 'https://v3.football.api-sports.io';
 
 const LaLigaTeamSearch = () => {
   const [inputValue, setInputValue] = useState('');

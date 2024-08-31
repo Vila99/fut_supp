@@ -1,0 +1,185 @@
+{
+    "noticias": [
+      {
+        "id": 1,
+        "equipo": "FC Barcelona",
+        "titulo": "FC Barcelona firma a un nuevo centrocampista",
+        "descripcion": "El Barcelona ha confirmado la contratación de un talentoso centrocampista para reforzar su mediocampo."
+      },
+      {
+        "id": 2,
+        "equipo": "Real Madrid",
+        "titulo": "Real Madrid busca extender el contrato de su capitán",
+        "descripcion": "El club está en negociaciones para prolongar el contrato de su capitán por dos temporadas más."
+      },
+      {
+        "id": 3,
+        "equipo": "Atlético de Madrid",
+        "titulo": "Atlético de Madrid logra una victoria clave en la Champions",
+        "descripcion": "El Atlético ha ganado su último partido en la fase de grupos, asegurando su lugar en los octavos de final."
+      },
+      {
+        "id": 4,
+        "equipo": "Sevilla FC",
+        "titulo": "Sevilla FC presenta a su nuevo entrenador",
+        "descripcion": "El Sevilla ha anunciado la llegada de un nuevo técnico para dirigir al equipo en lo que resta de la temporada."
+      },
+      {
+        "id": 5,
+        "equipo": "Valencia CF",
+        "titulo": "Valencia CF se refuerza con un defensa central",
+        "descripcion": "El Valencia ha incorporado a un experimentado defensa central para fortalecer su línea defensiva."
+      },
+      {
+        "id": 6,
+        "equipo": "Villarreal CF",
+        "titulo": "Villarreal CF avanza a las semifinales de la Europa League",
+        "descripcion": "El equipo ha asegurado su pase a las semifinales tras una contundente victoria en cuartos de final."
+      },
+      {
+        "id": 7,
+        "equipo": "Real Betis",
+        "titulo": "Real Betis anuncia renovación de contrato con su goleador",
+        "descripcion": "El Betis ha renovado el contrato de su máximo goleador, asegurando su continuidad en el club por tres años más."
+      },
+      {
+        "id": 8,
+        "equipo": "Real Sociedad",
+        "titulo": "Real Sociedad inaugura su nueva ciudad deportiva",
+        "descripcion": "El club ha presentado su moderna ciudad deportiva, que será el nuevo centro de entrenamiento del equipo."
+      },
+      {
+        "id": 9,
+        "equipo": "Athletic Club",
+        "titulo": "Athletic Club renueva a su joven promesa",
+        "descripcion": "El Athletic ha extendido el contrato de una de sus jóvenes promesas, blindándola con una cláusula de rescisión elevada."
+      },
+      {
+        "id": 10,
+        "equipo": "Rayo Vallecano",
+        "titulo": "Rayo Vallecano consigue una importante victoria en casa",
+        "descripcion": "El Rayo ha derrotado a su rival directo en un partido clave para mantenerse en la mitad alta de la tabla."
+      },
+      {
+        "id": 11,
+        "equipo": "CA Osasuna",
+        "titulo": "Osasuna ficha a un delantero internacional",
+        "descripcion": "El club ha incorporado a un delantero con experiencia internacional para potenciar su ataque."
+      },
+      {
+        "id": 12,
+        "equipo": "RC Celta de Vigo",
+        "titulo": "Celta de Vigo firma un acuerdo de patrocinio millonario",
+        "descripcion": "El Celta ha cerrado un acuerdo de patrocinio que aportará significativos ingresos al club."
+      },
+      {
+        "id": 13,
+        "equipo": "RCD Espanyol",
+        "titulo": "Espanyol presenta su nueva camiseta para la próxima temporada",
+        "descripcion": "El Espanyol ha desvelado el diseño de su nueva camiseta, que será utilizada en la temporada siguiente."
+      },
+      {
+        "id": 14,
+        "equipo": "RCD Mallorca",
+        "titulo": "RCD Mallorca ficha a un nuevo entrenador tras malos resultados",
+        "descripcion": "El club ha decidido cambiar de entrenador debido a la reciente racha de malos resultados en la liga."
+      },
+      {
+        "id": 15,
+        "equipo": "Getafe CF",
+        "titulo": "Getafe CF asegura la permanencia de su portero estrella",
+        "descripcion": "El Getafe ha renovado el contrato de su portero titular, asegurando su continuidad en el club."
+      },
+      {
+        "id": 16,
+        "equipo": "Cádiz CF",
+        "titulo": "Cádiz CF logra un empate en un partido emocionante",
+        "descripcion": "El Cádiz ha empatado en un partido lleno de acción, sumando un punto importante en la lucha por la permanencia."
+      },
+      {
+        "id": 17,
+        "equipo": "Deportivo Alavés",
+        "titulo": "Alavés firma a un mediocampista veterano para reforzar su plantilla",
+        "descripcion": "El Alavés ha incorporado a un mediocampista con amplia experiencia para afrontar la segunda mitad de la temporada."
+      },
+      {
+        "id": 18,
+        "equipo": "Granada CF",
+        "titulo": "Granada CF celebra su aniversario con un partido especial",
+        "descripcion": "El club ha organizado un partido conmemorativo para celebrar su aniversario, con la participación de exjugadores históricos."
+      },
+      {
+        "id": 19,
+        "equipo": "UD Las Palmas",
+        "titulo": "Las Palmas firma a un joven talento de la cantera",
+        "descripcion": "El equipo ha ascendido a un joven jugador de su cantera al primer equipo, con expectativas de grandes actuaciones."
+      },
+      {
+        "id": 20,
+        "equipo": "Girona FC",
+        "titulo": "Girona FC sorprende con su actuación en la Copa del Rey",
+        "descripcion": "El Girona ha dado la sorpresa en la Copa del Rey, avanzando a la siguiente ronda tras eliminar a un equipo de Primera."
+      },
+      {
+        "id": 21,
+        "equipo": "Real Zaragoza",
+        "titulo": "Real Zaragoza negocia la renovación de su entrenador",
+        "descripcion": "El club está en conversaciones para extender el contrato de su entrenador tras una serie de buenos resultados."
+      },
+      {
+        "id": 22,
+        "equipo": "Levante UD",
+        "titulo": "Levante UD asegura un valioso punto en su visita a un rival directo",
+        "descripcion": "El Levante ha conseguido un empate en un partido clave para sus aspiraciones en la liga."
+      },
+      {
+        "id": 23,
+        "equipo": "Real Sporting de Gijón",
+        "titulo": "Sporting de Gijón anuncia el fichaje de un extremo veloz",
+        "descripcion": "El Sporting ha incorporado a un extremo con gran velocidad para potenciar su juego por las bandas."
+      },
+      {
+        "id": 24,
+        "equipo": "Real Valladolid",
+        "titulo": "Valladolid logra una importante victoria fuera de casa",
+        "descripcion": "El Valladolid ha ganado un partido crucial como visitante, lo que le permite subir en la clasificación."
+      },
+      {
+        "id": 25,
+        "equipo": "SD Eibar",
+        "titulo": "Eibar inaugura su nuevo estadio",
+        "descripcion": "El club ha inaugurado su remodelado estadio con una ceremonia especial y un partido inaugural."
+      },
+      {
+        "id": 26,
+        "equipo": "SD Huesca",
+        "titulo": "Huesca refuerza su plantilla con un defensa central experimentado",
+        "descripcion": "El Huesca ha fichado a un defensa central con experiencia en la liga para fortalecer su línea defensiva."
+      },
+      {
+        "id": 27,
+        "equipo": "Elche CF",
+        "titulo": "Elche CF renueva a su máximo goleador",
+        "descripcion": "El club ha renovado el contrato de su delantero estrella, asegurando su continuidad para la próxima temporada."
+      },
+      {
+        "id": 28,
+        "equipo": "CD Tenerife",
+        "titulo": "Tenerife ficha a un delantero para mejorar su ataque",
+        "descripcion": "El Tenerife ha anunciado la llegada de un nuevo delantero, con el objetivo de mejorar su eficacia goleadora."
+      },
+      {
+        "id": 29,
+        "equipo": "Real Oviedo",
+        "titulo": "Real Oviedo celebra una histórica victoria en el derbi",
+        "descripcion": "El Oviedo ha conseguido una importante victoria en el derbi regional, que será recordada por los aficionados."
+      },
+      {
+        "id": 30,
+        "equipo": "Albacete Balompié",
+        "titulo": "Albacete se refuerza con un centrocampista de calidad",
+        "descripcion": "El club ha incorporado a un mediocampista con gran calidad técnica para mejorar su juego en el medio campo."
+      }
+    ]
+  }
+  
