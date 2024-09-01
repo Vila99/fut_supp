@@ -4,8 +4,8 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 import { useParams, useRouter } from 'next/navigation';
 
-const API_KEY = 'b209c4766d2600d02a18454bb08f4514';
-const BASE_URL = 'https://v3.football.api-sports.io';
+// const API_KEY = 'b209c4766d2600d02a18454bb08f4514';
+// const BASE_URL = 'https://v3.football.api-sports.io';
 const SEASON = '2024';
 
 const TeamDetails = () => {

@@ -1,7 +1,7 @@
 import Link from "next/link";
 import HouseFillClient from "@/app/components/HouseFillClient";
 
-//Get data from json-server, Top Products
+//Get data from json-server
 async function getNoticias(id) {
     const res = await fetch('http://localhost:4000/noticias?id='+id, { cache: 'no-store' })
    
@@ -27,24 +27,20 @@ export default async function NoticeDetail({ params }) {
                 </ol>
             </nav>
             <div className="grid">
-                <div className="row">
+                <div className="row g-0">
                 <div className="col-6">
                     <img src={"/img/" + noticias.img} className="img-fluid" alt="" />
                 </div>
-                <div className="col-6 bg-blanco px-4 py-4 mt-4">
-                    <p className="fs-6 text-body-secondary">Referencia: {noticias.equipo}</p>
-                    <p className="fs-2 fw-medium" style={{ textAlign: "justify" }}>
+                <div className="col-6 bg-blanco px-4 py-4">
+                    <p className="fs-6 text-body-secondary">{noticias.equipo}</p>
+                    <p className="fs-2 fw-bold" style={{ textAlign: "" }}>
                     {noticias.titulo}
                     </p>
                     <p
-                    className="fs-5 fw-bold mt-5"
+                    className="fs-5 fw-medium mt-5"
                     >
                     {" "}
-                    En Stock, {noticias.equipo}
-                    </p>
-                    <p className="fs-2 fw-bold mt-5" style={{ color: "#BE004F" }}>
-                    {" "}
-                    {noticias.equipo} € <span>IVA incluido</span>
+                    {noticias.descripcion}
                     </p>
                 </div>
                 </div>

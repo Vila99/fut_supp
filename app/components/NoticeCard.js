@@ -2,9 +2,9 @@ import Link from "next/link";
 
 export default function NoticeCard({img,equipo,titulo,id}){
     return(
-        <div className="card mb-4" style={{ width: "20rem" }}>
+        <div className="card mb-4 bg-blanco" style={{ width: "20rem" }}>
             <img
-                src={"./img/" + img}
+                src={img}
                 className="card-img-top p-3"
                 alt={equipo}
                 style={{ objectFit: 'cover', height: '200px' }} // Ajusta la altura de la imagen según sea necesario

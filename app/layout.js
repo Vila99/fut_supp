@@ -26,7 +26,8 @@ export default function RootLayout({ children }) {
               href="/"
               className="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-body-emphasis text-decoration-none"
             >
-              <span className="titulo1 fw-bold">FUT.SUPP</span>
+              <img src="/img/liga_logo.png" alt="Logo Liga" style={{width: '60px', height: '60px'}}></img>
+              <span className="titulo1 fw-bold ms-2">FUT.SUPP</span>
             </Link>
               <ul className="nav nav-pills align-items-center">
               <li className="nav-item">
@@ -34,9 +35,6 @@ export default function RootLayout({ children }) {
               </li>
               <li className="nav-item">
                 <CustomNavLink href="/grada">GRADA</CustomNavLink>
-              </li>
-              <li className="nav-item">
-                <CustomNavLink href="/miequipo">MI EQUIPO</CustomNavLink>
               </li>
               <li className="nav-item">
                 <CustomNavLink href="/noticias">NOTICIAS</CustomNavLink>
