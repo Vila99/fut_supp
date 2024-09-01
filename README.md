@@ -18,6 +18,12 @@ El objetivo de este proyecto es ofrecer una web sencilla donde puedas consultar 
     - Filtrado de noticias según el equipo que busques.
     - Detalle de las noticias a través de la opción "Saber más".
 
+## 💫 Aspectos a mejorar
+
+- Adaptada únicamente a escritorio, responsive proximamente.
+- Errores a causa del no reescalado de img.
+- Optimización de clases entre Bootstrap y CSS.
+
 ## 📦 Requerimientos de Mastermind AC
 
 Para este proyecto, se solicitó generar una aplicación desde cero basándose en los pasos, diseño y desarrollo del proyecto del curso. La aplicación debe cumplir con los siguientes requisitos:
