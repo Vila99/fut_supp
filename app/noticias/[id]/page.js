@@ -3,8 +3,8 @@ import HouseFillClient from "@/app/components/HouseFillClient";
 
 //Get data from json-server
 async function getNoticias(id) {
-    const res = await fetch('http://localhost:4000/noticias?id='+id, { cache: 'no-store' })
-   
+    const res = await fetch(`${process.env.DB_HOST}noticias?id=${id}`, { cache: 'no-store' });
+
     if (!res.ok) {
       throw new Error('Failed to fetch data')
     }
@@ -21,9 +21,9 @@ export default async function NoticeDetail({ params }) {
         <div className="contPrincipal vh-100 pt-3 bg-main px-5">
             <nav ariaLabel="breadcrumb">
                 <ol className="breadcrumb">
-                <li className="breadcrumb-item"><Link href="/"><HouseFillClient/></Link></li>
+                <li className="breadcrumb-item nav-link"><Link href="/"><HouseFillClient/></Link></li>
                 <li className="breadcrumb-item"><Link href="/noticias">Noticias</Link></li>
-                <li className="breadcrumb-item active" ariaCurrent="page">{noticias.equipo}</li>
+                <li className="breadcrumb-item active nav-link" ariaCurrent="page">{noticias.equipo}</li>
                 </ol>
             </nav>
             <div className="grid">
