@@ -23,6 +23,7 @@ El objetivo de este proyecto es ofrecer una web sencilla donde puedas consultar 
 - Adaptada únicamente a escritorio, responsive proximamente.
 - Errores a causa del no reescalado de img.
 - Optimización de clases entre Bootstrap y CSS.
+- El cifrado env me funciona solo para el Json subido a vercel y no para la api y su key, asi que lo he tenido que subir con ambas públicas para que funcione.
 
 ## 📦 Requerimientos de Mastermind AC
 
