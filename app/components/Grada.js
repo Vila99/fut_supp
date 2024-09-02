@@ -3,8 +3,8 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const API_KEY = process.env.DB_KEY;
-const BASE_URL = process.env.DB_HOST_FUT;
+const API_KEY = 'b209c4766d2600d02a18454bb08f4514';
+const BASE_URL = 'https://v3.football.api-sports.io/';
 
 const Grada = () => {
   const [favoriteTeams, setFavoriteTeams] = useState([]);
