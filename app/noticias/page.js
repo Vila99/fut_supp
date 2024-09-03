@@ -25,7 +25,7 @@ export default async function Notice({ searchParams }) {
     return (
         <>
             {/* CONTENIDO */}
-            <div className="pb-3 pt-4 bg-main px-5 vh-100">
+            <div className="pb-3 pt-4 bg-main px-5">
                 <h1 className="ps-2 text-center">Noticias</h1>
                 <SearchNav />
                 <div className="grid">
